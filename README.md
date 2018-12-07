@@ -19,7 +19,7 @@ C++ implementation of a toy blockchain.
 
 * [Coderfi Blog Toychain-cpp](https://blog.coderfi.com/2018/12/07/toychain-cpp/)
 * [Coderfi Blog Toychain-py-oop](https://blog.coderfi.com/2018/12/07/toychain-py-oop/)
-* (GitHub Toychain-py-oop](https://github.com/coderfi/toychain-py-oop)
+* [GitHub Toychain-py-oop](https://github.com/coderfi/toychain-py-oop)
 * Inspired by [Testchain](https://github.com/teaandcode/TestChain)
 * Inspired by [Davenash Blog](https://davenash.com/2017/10/build-a-blockchain-with-c/)
 * [SHA256 Library](https://create.stephan-brumme.com/hash-library/)
